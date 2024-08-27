@@ -4,6 +4,8 @@ This MATLAB project simulates and visualizes different types of torque-free rigi
 
 The simulations are built on the foundational work of Yi-Hsuan Chen and are inspired by the theoretical principles illustrated in Dr. Shane Ross's YouTube tutorial on stabilizing rotation in dual-spin spacecraft.
 
+- ![Prolate vs. Oblate Objects](prolate_vs_oblate.gif)
+
 ## Acknowledgments
 
 This project is based on the work of Yi-Hsuan Chen from the University of Maryland, College Park. The original MATLAB code was created by Yi-Hsuan Chen and is intended to demonstrate and visualize the motion of a torque-free rigid body, determining its trajectory in the inertial frame. The example used in this project is derived from a YouTube tutorial by Dr. Shane Ross.
